@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nodirkhan Abdumurotov</h1>
-<h3 align="center">I'm backend Developer from Uzbekistan. I am a Software developer with robust problem - solving skills. Experience with N-Tier architecture to Develop Architecture using Asp.Net 5 and I can understand code which is written by other. Furthermore, I Know Basic knowledge of Front-End.</h3>
+<h3 align="center">I'm backend Developer from Uzbekistan. I am a Software developer with robust problem - solving skills. Experience with N-Tier architecture to Develop Architecture using Asp.Net  and I can understand code which is written by other. Furthermore, I Know Basic knowledge of Front-End.</h3>
 
 - 🌱 I’m currently learning **.Net, Asp.Net Core**
 
