@@ -12,8 +12,6 @@
   <li>Unit, Acceptance and Integration testingWeb apps and APIs</li>
 </ul>
 
-- 🌱 I’m currently learning **.Net, Asp.Net Core**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/n0dir_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n0dir_khan" height="30" width="40" /></a>
