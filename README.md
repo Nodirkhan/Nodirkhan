@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nodirkhan Abdumurotov</h1>
-<h3 align="center">I'm backend Developer from Uzbekistan. I am a Software developer with robust problem - solving skills. Experience with N-Tier architecture to Develop Architecture using Asp.Net  and I can understand code which is written by other. Furthermore, I Know Basic knowledge of Front-End.</h3>
+<h3 align="center">If you are looking for Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!</h3>
+
+<p>The skills I can offer you include (but not limited to) Web API, ASP.NET MVC, Azure, C# and T-SQL. My experience working in leading companies, based-in the U.S. assures you can have your ideal .NET project up and running according to your deadlines.</p>
+
+<p>I can help you out with</p></br>
+
+<ul>
+  <li>Web apps and APIs</li>
+  <li>Creating Intranet systems</li>
+  <li>Deployment to Azure</li>
+  <li>Unit, Acceptance and Integration testingWeb apps and APIs</li>
+</ul>
 
 - 🌱 I’m currently learning **.Net, Asp.Net Core**
 
